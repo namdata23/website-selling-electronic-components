@@ -44,12 +44,12 @@
 ## Administration Usage
 
 Manage:
-1.Users
-2.Products
-3.Product details
-4.Order details for customers
-5.User permissions
-6.View statistics.
+1. Users.
+2. Products.
+3. Product details.
+4. Order details for customers.
+5. User permissions.
+6. View statistics.
 
 ## Authors
 
